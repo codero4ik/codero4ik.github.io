@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codero4ik&show_icons=true&theme=dark)
+
 # v0.1.3
 
 ### Обновление 0.1.1:
