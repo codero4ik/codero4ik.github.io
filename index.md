@@ -32,4 +32,24 @@
 - Фикс дизайна
 - Полноценное Teleport - Menu
 - Фикс таймера(сам двигался)
-- Авто - принятие репорта теперь на imgui окне(готовность 50%) 
+- Авто - принятие репорта теперь на imgui окне(готовность 50%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codero4ik&show_icons=true&theme=dark)
